@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 50px;
+    /* Centrar horizontalmente */
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
